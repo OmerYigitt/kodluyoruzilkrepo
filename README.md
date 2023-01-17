@@ -32,4 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[x]All Update Done.
+- [x]All Update Done.
