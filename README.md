@@ -20,7 +20,7 @@ Projeyii cloneladıktan sonra Visual Studio Code programında açınız
 Linux için ;
 
 ```Git
-cd kodluyoruzilkrepo cd .
+cd kodluyoruzilkrepo code .
 
 ```
 
@@ -31,3 +31,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 ## __License__
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[x]All Update Done.
